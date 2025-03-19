@@ -40,16 +40,16 @@ A arquitetura do projeto consiste em:
 ## Tipos de Pesquisa
 
 * **Pesquisa por palavras-chave:** Busca por termos específicos nos documentos.
-![Pesquisa por localização](04.jpg)
-<br>
-* **Pesquisa por localização:** Filtragem de documentos com base em informações de localização (se presentes).  
-![Pesquisa por localização](02.jpg)
-<br>
-* **Pesquisa por sentimento:** Filtragem de documentos com base na análise de opiniões (positivo, negativo, neutro).  
-![Pesquisa por localização](03.jpg)
-<br>
+    ![Pesquisa por palavras-chave](outputs/04.jpg)
+    <br>
+* **Pesquisa por localização:** Filtragem de documentos com base em informações de localização (se presentes). 
+    ![Pesquisa por localização](outputs/02.jpg)
+    <br>
+* **Pesquisa por sentimento:** Filtragem de documentos com base na análise de opiniões (positivo, negativo, neutro). 
+    ![Pesquisa por sentimento](outputs/03.jpg)
+    <br>
 * **Pesquisa por localização e sentimento:** Permite filtrar documentos com base na localização mencionada e no sentimento expresso no conteúdo.
-* ![Pesquisa por localização](01.jpg)
+    ![Pesquisa por localização e sentimento](outputs/01.jpg)
 
 ## Insights e Aprendizados
 
